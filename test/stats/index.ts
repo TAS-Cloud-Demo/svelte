@@ -54,7 +54,6 @@ describe('stats', () => {
 		const { stats } = svelte.compile('', {
 			generate: false
 		});
-
 		assert.equal(typeof stats.timings.total, 'number');
 	});
 });
