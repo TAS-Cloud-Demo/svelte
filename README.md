@@ -66,7 +66,7 @@ npm run test -- -g transition
 
 The source code for https://svelte.dev, including all the documentation, lives in the [site](site) directory. The site is built with [SvelteKit](https://kit.svelte.dev).
 
-### Is svelte.dev down?
+### Is svelte.dev down
 
 Probably not, but it's possible. If you can't seem to access any `.dev` sites, check out [this SuperUser question and answer](https://superuser.com/q/1413402).
 
